@@ -1,6 +1,6 @@
 # 👋 Hi, I’m RenataKB
 
-### Chemical Engineer seeking a new career as Backend Developer
+### Chemical Engineer seeking a new career as Dev / DevOps
 
 ### 🏡 SP/Brazil
 
@@ -8,7 +8,7 @@
 
 - 💻 I’m interested in computer science
 - 🔭 I’m currently working on **Harvard's CS50P Final Project**
-- 🌱 I’m currently learning **DevOps - Observability (Prometheus & Grafana)**
+- 🌱 I’m currently learning **JavaScript and Angular**
 - 👨‍💻 My projects are available at [https://renatakb.github.io/](https://renatakb.github.io/)
 - 📫 How to reach me: RenataKB#9352 on Discord
 - 😄 Pronouns: she/her
@@ -28,6 +28,8 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
+<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
